@@ -1,0 +1,17 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+body {
+overflow: hidden;
+}
+
+.fontPre {
+font-family: Custom;
+}
+
+@font-face { 
+font-family: "Custom"; 
+src: url("fonts/custom.otf"); 
+}
